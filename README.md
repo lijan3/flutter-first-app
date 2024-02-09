@@ -1,16 +1,4 @@
-# first_app
+# Flutter Dice App
+https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot of Dice app built in Flutter]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/lijan3/flutter_dice_app/blob/main/screenshots/Screenshot_1707480845.png)https://github.com/lijan3/flutter_dice_app/blob/main/screenshots/Screenshot_1707480845.png)
